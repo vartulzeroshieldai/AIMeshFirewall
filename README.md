@@ -631,16 +631,15 @@ A software company provides AI coding assistants to 800 engineers. Source code, 
 
 ## Platform Screenshots & Demo
 
-> **Screenshots and demo video will be added here once the platform is finalized.**
 
 | | |
 |---|---|
-| 📸 **Dashboard Overview** | *(coming soon)* |
-| 📸 **Policy Builder** | *(coming soon)* |
-| 📸 **Vector Collection Policies** | *(coming soon)* |
-| 📸 **MCP Scanner** | *(coming soon)* |
-| 📸 **Kill Switch Management** | *(coming soon)* |
-| 📸 **Firewall Configuration** | *(coming soon)* |
+| 📸 **Dashboard Overview** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b6cb0291-f2ae-4282-9b76-d3bed3df8ed6" /> |
+| 📸 **Policy Builder** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/2598c4c9-beac-4c13-8080-d96a6e8b1217" /> |
+| 📸 **Vector Collection Policies** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/572941cb-f3e6-4489-82ce-3bc86ee8099e" /> |
+| 📸 **MCP Scanner** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/73f741c9-439e-4b91-bf31-7626c7e30cf5" /> |
+| 📸 **Kill Switch Management** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/df91fade-509c-445d-9b79-19d4d13ed1d7" /> |
+| 📸 **Firewall Configuration** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b9d9e9b8-8ece-4eb5-ad17-bfee552dcb69" /> |
 
 🎬 **Demo Video** — *(Full walkthrough demo coming soon)*
 
