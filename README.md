@@ -3,9 +3,9 @@
 # 🛡️ _ZeroShield — AI Mesh Firewall_
 
 ### _End-to-End RAG Firewalling, Model Isolation & Multi-Model Governance_
-<img width="1598" height="438" alt="image" src="https://github.com/user-attachments/assets/8faee856-708c-4574-b10a-cb5eced85a6c" />
+<img width="365" height="100" alt="image" src="https://github.com/user-attachments/assets/8faee856-708c-4574-b10a-cb5eced85a6c" />
 
-_[AI Mesh Firewall](https://zeroshield.ai), a core module of [ZeroShield](https://zeroshield.ai)_
+_[AI Mesh Firewall](https://aisecshield.zeroshield.ai/?tab=firewall-1-4), a core module of [ZeroShield](https://zeroshield.ai)_
 
 ### Tech Stack
 
