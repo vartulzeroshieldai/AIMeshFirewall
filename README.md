@@ -429,26 +429,6 @@ Inspects the model's streaming response before it is delivered to the client. Ou
 
 ---
 
-## Technology Stack
-
-| Component | Technology | Purpose |
-|---|---|---|
-| **AI Gateway** | FastAPI | Request interception, middleware enforcement, streaming |
-| **Multi-Model Routing** | LiteLLM | Unified routing to all LLM providers |
-| **Prompt Injection Detection** | llm-guard | Injection, jailbreak, and secret scanning |
-| **PII / PHI Detection** | Microsoft Presidio | Data loss prevention for input and output |
-| **MCP Guardrails** | OPA + Custom Builder | Per-user and per-agent context enforcement |
-| **Inline Policy Decisions** | Open Policy Agent (OPA) | Allow / Block / Rewrite policy evaluation |
-| **RAG Query Filtering** | llm-guard | Pre-retrieval injection filtering |
-| **RAG Document Scanning** | Microsoft Presidio | Sensitive data detection in retrieved content |
-| **Output Guardrails** | llm-guard + Presidio | Output leakage prevention |
-| **Model Kill-Switch** | LiteLLM + Control Plane | Per-model isolation and failover |
-| **Policy Sync** | Redis Pub/Sub | Near real-time control-plane to gateway propagation |
-| **Async Audit Logging** | Message queue + Workers | Non-blocking telemetry pipeline |
-| **Audit Storage** | PostgreSQL | Full enforcement event audit trail |
-
----
-
 ## Gateway Latency Impact
 
 A common question is how much latency the AI Mesh Firewall adds compared to calling an LLM provider directly. The answer depends on which checks are enabled.
