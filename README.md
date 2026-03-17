@@ -73,8 +73,6 @@ All AI clients — chatbots, agents, backend APIs, and RAG apps — connect to t
 
 ### Architecture Diagram
 
-> View in a Markdown renderer that supports Mermaid (e.g. GitHub, VS Code preview) to see the diagrams.
-
 **High-level: clients, gateway, control plane, and AI providers**
 
 ```mermaid
@@ -641,9 +639,18 @@ A software company provides AI coding assistants to 800 engineers. Source code, 
 | 📸 **Kill Switch Management** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/df91fade-509c-445d-9b79-19d4d13ed1d7" /> |
 | 📸 **Firewall Configuration** | <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b9d9e9b8-8ece-4eb5-ad17-bfee552dcb69" /> |
 
-🎬 **Demo Video** — *(Full walkthrough demo coming soon)*
+🎬 **Demo Video**
+
+
+https://github.com/user-attachments/assets/bc2f38f6-7123-4b56-8b79-fa0621fa4ab2
+
+
 
 ---
+
+
+
+
 
 ## Support
 
